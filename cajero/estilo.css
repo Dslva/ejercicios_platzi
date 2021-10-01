@@ -1,0 +1,50 @@
+body{
+    background-color: whitesmoke;
+}
+#div_cajero{
+    width: 612px;
+    height: 448px;
+    background-image: url("fondo.jpg");
+    bottom: 1px solid gray;
+    border-radius: 12px;
+    margin: auto;
+    margin-top: 10%;
+}
+#content_box{
+    width: 220px;
+    height: 90px;
+    border: 1px solid gray;
+    background-color: whitesmoke;
+    border-radius: 12px;
+    position: relative;
+    top: 35%;
+    left: 50%;
+}
+#monto_txt{
+    margin: auto;
+    height: 20px;
+    width: 110px;
+    position: relative;
+    top: 30%;
+    left: 10%;
+}
+#txt{
+    margin: auto;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    top: 20%;
+    left: 29%;
+}
+#btn{
+    margin: auto;
+    height: 25px;
+    width: 60px;
+    position: relative;
+    background-color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;    
+    border-color: black;
+    border-radius: 5px;
+    top: 30%;
+    left: 10%;
+}
